@@ -4,3 +4,10 @@ function forLoop(arr) {
   }
   return arr
  }
+ 
+ function whileLoop(n) {
+   if(n===0) return 0
+   else {
+     return n + (whileLoop(n-1))
+   }
+ }
