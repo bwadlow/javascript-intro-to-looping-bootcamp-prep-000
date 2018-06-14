@@ -18,8 +18,10 @@ function forLoop(arr) {
     arr.pop()
   }
   while (maybeTrue()=== true)
-  function maybeTrue() {
-  return Math.random() >= 0.5
-}
+  
   return arr
  }
+ 
+ function maybeTrue() {
+  return Math.random() >= 0.5
+}
