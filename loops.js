@@ -10,5 +10,5 @@ function forLoop(arr) {
      console.log(n)
      n--
    }
-   return 'done.'
+   return 'done'
  }
