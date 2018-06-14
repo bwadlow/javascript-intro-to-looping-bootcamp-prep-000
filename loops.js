@@ -14,5 +14,9 @@ function forLoop(arr) {
  }
  
  function doWhileLoop(arr) {
+  do{
+    arr.pop()
+  }
+  while ()
    
  }
