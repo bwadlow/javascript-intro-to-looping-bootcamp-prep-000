@@ -12,3 +12,7 @@ function forLoop(arr) {
    }
    return 'done'
  }
+ 
+ function doWhileLoop(arr) {
+   
+ }
